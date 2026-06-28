@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <texts>
+        <text name="input_ADExt_WorkshopVehicle"           text="LazyChilla AD Workshop: Vai all'officina" />
+        <text name="input_ADExt_SetWorkshopDestination"    text="LazyChilla AD Workshop: Imposta officina" />
+        <text name="ADExt_workshop_noPosSet"               text="Nessuna destinazione officina impostata." />
+        <text name="ADExt_workshop_selected"               text="Destinazione officina impostata: " />
+        <text name="ADExt_task_drive_to_workshop"          text="In viaggio verso l'officina" />
+    </texts>
+</l10n>
