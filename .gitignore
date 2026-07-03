@@ -1,0 +1,17 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# Build artifacts (keep zips out of git history, they go in Releases instead)
+*.zip
+/dist/
+/build/
+
+# Logs
+*.log
