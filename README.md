@@ -1,6 +1,6 @@
 # LazyChilla AD Extension
 
-**Extension for [AutoDrive](https://github.com/Stephan-S/FS25_AutoDrive) (FS25_AutoDrive) — adds a customizable quick-access button bar to the AutoDrive HUD.**
+**Extension for [AutoDrive](https://github.com/Stephan-S/FS25_AutoDrive) (FS25_AutoDrive) — adds customizable quick-access buttons bar to the AutoDrive HUD.**
 
 🇩🇪 [Deutsch](#deutsch) · 🇬🇧 [English](#english) · 🇫🇷 [Français](#français) · 🇮🇹 [Italiano](#italiano) · 🇵🇹 [Português](#português)
 
