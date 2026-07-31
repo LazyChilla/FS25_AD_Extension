@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <texts>
+        <text name="input_ADExt_RefreshRestore"            text="LazyChilla AD Extension: Vorherigen Zustand wiederherstellen" />
+        <text name="input_ADExt_WorkshopVehicle"           text="LazyChilla AD Extension: Zur Werkstatt fahren" />
+        <text name="input_ADExt_SetWorkshopDestination"    text="LazyChilla AD Extension: Werkstattziel setzen" />
+        <text name="ADExt_noPosSet"                        text="Kein Ziel gesetzt." />
+        <text name="ADExt_selected"                        text="Ziel gesetzt: " />
+        <text name="ADExt_name_refresh"                    text="Refresh: vorherige Aufgabe" />
+        <text name="ADExt_backTo"                          text="Zurueck zu: " />
+        <text name="ADExt_restored"                        text="Wiederhergestellt: " />
+        <text name="ADExt_saved"                           text="Gemerkt: " />
+        <text name="ADExt_noPrevState"                     text="Kein vorheriger Zustand gemerkt." />
+        <text name="ADExt_name_workshop"                   text="Werkstatt" />
+        <text name="ADExt_name_hofsilo"                    text="Hofsilo" />
+        <text name="ADExt_name_kalk"                       text="Kalk" />
+        <text name="ADExt_name_duenger"                    text="Duenger" />
+        <text name="ADExt_name_saatgut"                    text="Saatgut" />
+        <text name="ADExt_name_frei"                       text="Frei" />
+    </texts>
+</l10n>

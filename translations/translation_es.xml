@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <texts>
+        <text name="input_ADExt_RefreshRestore"            text="LazyChilla AD Extension: Restaurar estado anterior" />
+        <text name="input_ADExt_WorkshopVehicle"           text="LazyChilla AD Extension: Ir al taller" />
+        <text name="input_ADExt_SetWorkshopDestination"    text="LazyChilla AD Extension: Fijar destino del taller" />
+        <text name="ADExt_noPosSet"                        text="Sin destino fijado." />
+        <text name="ADExt_selected"                        text="Destino fijado: " />
+        <text name="ADExt_name_refresh"                    text="Refresh: tarea anterior" />
+        <text name="ADExt_backTo"                          text="Volver a: " />
+        <text name="ADExt_restored"                        text="Restaurado: " />
+        <text name="ADExt_saved"                           text="Memorizado: " />
+        <text name="ADExt_noPrevState"                     text="Ningun estado anterior memorizado." />
+        <text name="ADExt_name_workshop"                   text="Taller" />
+        <text name="ADExt_name_hofsilo"                    text="Silo de granja" />
+        <text name="ADExt_name_kalk"                       text="Cal" />
+        <text name="ADExt_name_duenger"                    text="Fertilizante" />
+        <text name="ADExt_name_saatgut"                    text="Semillas" />
+        <text name="ADExt_name_frei"                       text="Personalizado" />
+    </texts>
+</l10n>
