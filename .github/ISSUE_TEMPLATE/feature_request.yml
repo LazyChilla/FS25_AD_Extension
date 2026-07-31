@@ -1,0 +1,20 @@
+name: Feature request
+description: Suggest an improvement for FS25_AD_Extension
+title: "[Request]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: goal
+    attributes:
+      label: What do you want to achieve?
+      description: Describe the goal, not the button. What are you trying to do?
+    validations:
+      required: true
+  - type: textarea
+    id: existing
+    attributes:
+      label: Do you know a mod that already does this?
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else?

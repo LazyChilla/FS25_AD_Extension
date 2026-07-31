@@ -1,0 +1,75 @@
+name: Bug report
+description: Report a problem with FS25_AD_Extension
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting. Please fill in everything you can - without log.txt nobody can help.
+  - type: input
+    id: modversion
+    attributes:
+      label: Mod version
+      placeholder: "e.g. 1.3.0.0"
+    validations:
+      required: true
+  - type: input
+    id: fsversion
+    attributes:
+      label: FS25 version
+      placeholder: "e.g. 1.21.1.0"
+    validations:
+      required: true
+  - type: dropdown
+    id: mode
+    attributes:
+      label: Singleplayer or Multiplayer?
+      options:
+        - Singleplayer
+        - Multiplayer (host)
+        - Multiplayer (client)
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+    validations:
+      required: true
+  - type: textarea
+    id: log
+    attributes:
+      label: log.txt
+      description: "Paste or attach the WHOLE log.txt (Documents\\My Games\\FarmingSimulator2025\\log.txt). Tip: if the line '[ADExt] ... geladen' is missing, the mod was not active."
+    validations:
+      required: true
+  - type: input
+    id: vehicle
+    attributes:
+      label: Affected vehicle (optional)
+  - type: textarea
+    id: othermods
+    attributes:
+      label: Other mods active (optional)
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I am using the latest version of the mod
+          required: true
+        - label: AutoDrive (FS25_AutoDrive) is installed and active
+          required: true
