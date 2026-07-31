@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="111">
+    <author>LazyChilla</author>
+    <title>
+        <en>AD Extension</en>
+        <de>AD Extension</de>
+        <fr>AD Extension</fr>
+        <it>AD Extension</it>
+        <pt>AD Extension</pt>
+        <es>AD Extension</es>
+    </title>
+    <description>
+        <en>
+<![CDATA[Quick-access button bar for AutoDrive (FS25_AutoDrive).
+
+Features:
+- Refresh button (fixed, far right): restore the previous AD task
+  Left-click: restore previous state | Right-click: remember current state
+  Tooltip shows "Back to: <destination>"
+- Workshop button (fixed, 2nd from right) — always available
+- Dynamic buttons: click [+] to open icon picker, choose from the icons
+- Left-click: drive to destination | Right-click: set destination
+- SHIFT + Left-click: remove a dynamic button
+- Unassigned buttons appear dimmed (alpha 0.2)
+- The previous AD state is remembered automatically before switching
+  targets and survives reload per vehicle (savegame).
+
+Requires: FS25_AutoDrive
+
+SUPPORT: Please report bugs and requests only via GitHub, always with log.txt:
+https://github.com/LazyChilla/FS25_AD_Extension/issues
+Nobody can help without log.txt. No support via comments on download pages.
+]]>        </en>
+        <de>
+<![CDATA[Schnellzugriff-Leiste fuer AutoDrive (FS25_AutoDrive).
+
+Features:
+- Refresh-Button (fest, ganz rechts): vorherige AD-Aufgabe wiederherstellen
+  Linksklick: Vorzustand wiederherstellen | Rechtsklick: aktuellen Zustand merken
+  Tooltip zeigt "Zurueck zu: <Ziel>"
+- Werkstatt-Button (fest, 2. von rechts) — immer verfuegbar
+- Dynamische Buttons: [+] druecken, Icon waehlen
+- Linksklick: Ziel anfahren | Rechtsklick: Ziel setzen
+- SHIFT + Linksklick: Dynamischen Button loeschen
+- Unbelegte Buttons erscheinen transparent (alpha 0.2)
+- Der vorherige AD-Zustand wird vor jedem Zielwechsel automatisch
+  gemerkt und ueberlebt pro Fahrzeug das Neuladen (Spielstand).
+
+Benoetigt: FS25_AutoDrive
+
+SUPPORT: Fehler und Wuensche bitte ausschliesslich ueber GitHub melden, immer mit log.txt:
+https://github.com/LazyChilla/FS25_AD_Extension/issues
+Ohne log.txt kann niemand helfen. Kein Support ueber Kommentare auf Download-Seiten.
+]]>        </de>
+        <fr>
+<![CDATA[Barre de boutons d'acces rapide pour AutoDrive (FS25_AutoDrive).
+
+Fonctions:
+- Bouton Refresh (fixe, tout a droite): restaurer la tache AD precedente
+  Clic gauche: restaurer l'etat precedent | Clic droit: memoriser l'etat actuel
+  L'infobulle affiche "Retour a : <destination>"
+- Bouton Atelier (fixe, 2e en partant de la droite) — toujours disponible
+- Boutons dynamiques: [+] pour ouvrir le selecteur d'icones, choisir une icone
+- Clic gauche: aller a la destination | Clic droit: definir la destination
+- MAJ + Clic gauche: supprimer un bouton dynamique
+- Les boutons non attribues apparaissent estompes (alpha 0.2)
+- L'etat AD precedent est memorise automatiquement avant chaque changement
+  de destination et survit au rechargement par vehicule (sauvegarde).
+
+Requiert: FS25_AutoDrive
+
+SUPPORT: Signalez bugs et demandes uniquement via GitHub, toujours avec log.txt:
+https://github.com/LazyChilla/FS25_AD_Extension/issues
+Personne ne peut aider sans log.txt. Pas de support via les commentaires des pages de telechargement.
+]]>        </fr>
+        <it>
+<![CDATA[Barra di pulsanti ad accesso rapido per AutoDrive (FS25_AutoDrive).
+
+Funzioni:
+- Pulsante Refresh (fisso, in fondo a destra): ripristina l'attivita AD precedente
+  Clic sinistro: ripristina lo stato precedente | Clic destro: memorizza lo stato attuale
+  Il tooltip mostra "Torna a: <destinazione>"
+- Pulsante Officina (fisso, 2o da destra) — sempre disponibile
+- Pulsanti dinamici: [+] per aprire il selettore di icone, scegli un'icona
+- Clic sinistro: vai alla destinazione | Clic destro: imposta la destinazione
+- MAIUSC + Clic sinistro: rimuovi un pulsante dinamico
+- I pulsanti non assegnati appaiono attenuati (alpha 0.2)
+- Lo stato AD precedente viene memorizzato automaticamente prima di ogni
+  cambio di destinazione e sopravvive al ricaricamento per veicolo (salvataggio).
+
+Richiede: FS25_AutoDrive
+
+SUPPORT: Segnala bug e richieste solo tramite GitHub, sempre con log.txt:
+https://github.com/LazyChilla/FS25_AD_Extension/issues
+Nessuno puo aiutare senza log.txt. Nessun supporto tramite i commenti sulle pagine di download.
+]]>        </it>
+        <pt>
+<![CDATA[Barra de botoes de acesso rapido para o AutoDrive (FS25_AutoDrive).
+
+Funcoes:
+- Botao Refresh (fixo, na extrema direita): restaurar a tarefa AD anterior
+  Clique esquerdo: restaurar o estado anterior | Clique direito: memorizar o estado atual
+  A dica mostra "Voltar para: <destino>"
+- Botao Oficina (fixo, 2o a partir da direita) — sempre disponivel
+- Botoes dinamicos: [+] para abrir o seletor de icones, escolher um icone
+- Clique esquerdo: ir ao destino | Clique direito: definir o destino
+- SHIFT + Clique esquerdo: remover um botao dinamico
+- Botoes nao atribuidos aparecem esmaecidos (alpha 0.2)
+- O estado AD anterior e memorizado automaticamente antes de cada troca
+  de destino e sobrevive ao recarregamento por veiculo (savegame).
+
+Requer: FS25_AutoDrive
+
+SUPPORT: Relate erros e pedidos apenas via GitHub, sempre com log.txt:
+https://github.com/LazyChilla/FS25_AD_Extension/issues
+Ninguem pode ajudar sem log.txt. Sem suporte via comentarios nas paginas de download.
+]]>        </pt>
+        <es>
+<![CDATA[Barra de botones de acceso rapido para AutoDrive (FS25_AutoDrive).
+
+Funciones:
+- Boton Refresh (fijo, extremo derecho): restaurar la tarea AD anterior
+  Clic izquierdo: restaurar el estado anterior | Clic derecho: memorizar el estado actual
+  La informacion muestra "Volver a: <destino>"
+- Boton Taller (fijo, 2o desde la derecha) — siempre disponible
+- Botones dinamicos: [+] para abrir el selector de iconos, elige un icono
+- Clic izquierdo: ir al destino | Clic derecho: fijar el destino
+- MAYUS + Clic izquierdo: eliminar un boton dinamico
+- Los botones sin asignar aparecen atenuados (alpha 0.2)
+- El estado AD anterior se memoriza automaticamente antes de cada cambio
+  de destino y sobrevive a la recarga por vehiculo (partida guardada).
+
+Requiere: FS25_AutoDrive
+
+SUPPORT: Informa de errores y peticiones solo via GitHub, siempre con log.txt:
+https://github.com/LazyChilla/FS25_AD_Extension/issues
+Nadie puede ayudar sin log.txt. Sin soporte via comentarios en las paginas de descarga.
+]]>        </es>
+    </description>
+    <version>1.3.0.0</version>
+    <multiplayer supported="true" />
+    <iconFilename>icon_AD_Extension.dds</iconFilename>
+
+    <extraSourceFiles>
+        <sourceFile filename="scripts/ADExtSnapshotEvent.lua" />
+        <sourceFile filename="scripts/ADExtInputEvent.lua" />
+        <sourceFile filename="scripts/AutoDriveExtension.lua" />
+    </extraSourceFiles>
+
+    <l10n filenamePrefix="translations/translation" />
+
+    <!-- Actions: Refresh wiederherstellen + Werkstatt anfahren + Werkstattziel setzen -->
+    <actions>
+        <action name="ADExt_RefreshRestore"/>
+        <action name="ADExt_WorkshopVehicle"/>
+        <action name="ADExt_SetWorkshopDestination"/>
+    </actions>
+
+    <inputBinding>
+        <!-- Keybinding für "Vorherigen AD-Zustand wiederherstellen" (Refresh) -->
+        <actionBinding action="ADExt_RefreshRestore">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_lalt KEY_r"
+                     axisComponent="+" neutralInput="0" index="1" />
+        </actionBinding>
+        <!-- Keybinding für "Zur Werkstatt fahren" — User kann es selbst ändern -->
+        <actionBinding action="ADExt_WorkshopVehicle">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_lalt KEY_w"
+                     axisComponent="+" neutralInput="0" index="1" />
+        </actionBinding>
+        <!-- Kein Default-Keybinding für SetWorkshopDestination — nur per HUD-Rechtsklick -->
+    </inputBinding>
+
+</modDesc>
