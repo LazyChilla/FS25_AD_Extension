@@ -8,6 +8,8 @@
 
 🇩🇪 [Deutsch](#deutsch) · 🇬🇧 [English](#english) · 🇫🇷 [Français](#français) · 🇮🇹 [Italiano](#italiano) · 🇵🇹 [Português](#português) · 🇪🇸 [Español](#español)
 
+> ⭐ **Gefällt dir der Mod? Lass oben rechts einen Stern da** — ein Klick, und andere finden ihn leichter. · **Like it? Leave a star (top right)** — one click helps others discover it.
+
 ---
 
 ## Deutsch
